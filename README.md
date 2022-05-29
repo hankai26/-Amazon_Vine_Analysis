@@ -32,5 +32,6 @@ Compare to 5-star reviews, we also examined the 1-star review for both Vine and 
 ![1star_nonVine](https://github.com/hankai26/Amazon_Vine_Analysis/blob/main/images/1-star_nonVine.png)
 
 # Summary
-state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis 
+The analyzed ratios for 5-star are 34.1% and 48.3% for Vine and non-Vine reviews, which don't show much difference. There's no positive bias for Vine program when companies paid on the reviews. However, the further analysis on 1-star reviews indicts that there're 36 and 11,014 1-star vine reviews and non-Vine reviews, respectively. The significantly small number of 1-star Vine reviews indicates two posibilities. One is that people would rather not give a 1-star review involving the Vine program, which is a negative bias. Or it's also possible that companies who would like to pay for reviews always provide toys with higher quality.
+
 
